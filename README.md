@@ -12,9 +12,8 @@ Interesse an Softwareentwicklung und Datenanalyse
 Java, C++, Python (im Aufbau), MATLAB
 
 **Daten & Tools:**  
-SQL, Git, GitHub  
+Git, GitHub  
 JetBrains IDEs (IntelliJ IDEA, PyCharm, CLion)  
-SAP (Grundlagen)
 
 ### Aktuell lerne ich
 - Python
