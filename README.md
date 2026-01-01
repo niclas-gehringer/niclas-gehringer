@@ -18,7 +18,6 @@ JetBrains IDEs (IntelliJ IDEA, PyCharm, CLion)
 ### Aktuell lerne ich
 - Python
 - SQL
-- SAP
 
 ### Ziel
 Einstieg in Softwareentwicklung oder datennahe Rollen
